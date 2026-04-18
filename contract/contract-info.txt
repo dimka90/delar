@@ -1,0 +1,8 @@
+https://repo.sourcify.dev/contracts/full_match/84532/0x49aC2AD1785d9577aF52a4Cd1511DcCC3AC42704/
+
+pinataImageURI:  https://violet-solid-gazelle-313.mypinata.cloud/ipfs/bafybeibl3hdafpvuvxokarm7xbp2qwqcjatkjf6cllhziyrrpbkb72jf3i/1
+
+Deploying DelarContract with the account: 0x3e940762B2d3EC049FF075064bED358720a9260B
+DelarNFT Contract Deployed at: 0x2E770a7be0552181B9c00dd5b5e9260284D2fD78
+DelarERC20Token Contract Deployed at: 0x62203105D30C6F55F17d59737683e330c4737bB1
+DelarContract Contract Deployed at: 0x3B9cD236D48833793A7Da855A77463E387D0c608
